@@ -32,3 +32,7 @@ make
 5. Carregue o firmware no seu microcontrolador Raspberry Pi Pico para ver o seu funcionamento com LED.
 
 6. Acesse o simulador online Wokwi na web ou instale sua extensão no VSCode e inicialize a simulação pelo arquivo `diagram.json`.
+
+# Demonstração
+
+https://drive.google.com/drive/folders/1Tky04_MCSOopj0PfryNsLbUlj8N-Yjpr
